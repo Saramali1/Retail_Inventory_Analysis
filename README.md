@@ -2,6 +2,8 @@
 Retail Inventory Project - Built an interactive Power BI dashboard to analyze revenue, shrinkage and forecast accuracy.
 
 The insights are based on visualizations created from the dataset.
+## 📊 Dashboard Screenshot
+![Units Ordered vs Units Sold](images/dashboard.jpg) 
 
 ---
 
